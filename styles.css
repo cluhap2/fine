@@ -1,0 +1,141 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #000;
+  padding: 50px;
+  text-align: center;
+  background-image: url(https://i.pinimg.com/originals/3d/38/4d/3d384d829dbf4b678cfea617114e149d.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.nav-item a{
+  transition: 0.5s ease;
+}
+.nav-item a:hover{
+  color: #f40f40;
+}
+.header h1 {
+  color: #fff;
+
+  position: relative;
+
+  left: 5px;
+}
+
+.header h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.header a {
+  text-decoration: none;
+}
+
+.header a {
+  font-family: 'Poppins', sans-serif;
+}
+
+.header a {
+  color: #fff;
+}
+
+.header a {
+  font-size: 14px;
+}
+
+.header a {
+  margin: 10px;
+}
+
+.a-1{
+  position: relative;
+  left: 500px;
+  bottom: 48px;
+}
+.b-2{
+  position: relative;
+  left: 600px;
+  bottom: 66px;
+}
+.c-3{
+  position: relative;
+  left: 700px;
+  bottom: 83px;
+}
+.youtube-logo{
+  position: relative;
+  border-radius: 50%;
+  top: 250px;
+  right: 400px;
+}
+.youtube h1{
+  position: relative;
+  top: 300px;
+  color: #000;
+}
+.youtube a{
+  position: relative;
+  top: 190px;
+  right: 267px;
+  color: #fff;
+  background-color: #f40f40;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  transition: 0.5s ease;
+  border-radius: 50px;
+}
+.youtube a:hover{
+  background-color: #000;
+}
+.contact a{
+  position: relative;
+  left: 5px;
+  top: 40px;
+  color: #fff;
+  background-color: #f40f40;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  transition: 0.5s ease;
+  border-radius: 50px;
+}
+.contact a:hover{
+  background-color: #3A3845;
+} 
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+body{padding-bottom: 2000px;}
+.h{
+  position: relative;
+  top: 300px;
+}
+.skills h1{
+  position: relative;
+  color: #000;
+  top: 300px;
+}
+.cont{
+  position: relative;
+  left: 600px;
+}
+.nav-link a{
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  left: 1300px;
+  top: 20px;
+  font-family: 'Monseratti', sans-serif;
+  transition: .3s ease;
+}
+.nav-link a:hover{
+  color: #f40f40;
+}
